@@ -1,5 +1,5 @@
 'strict';
-et gulp = require('gulp'),
+let gulp = require('gulp'),
     webshot=require('webshot');
 var rename = require("rename");
 var fs = require('fs');
