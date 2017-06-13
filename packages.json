@@ -1,0 +1,21 @@
+{
+    "name": "visual-regression",
+    "version": "0.0.0",
+    "scripts": {
+        "snap": "gulp shot"
+    },
+    "devDependencies": {
+        "gulp": "^3.6.1",
+        "gulp-cleanhtml": "0.0.2",
+        "gulp-livereload": "^1.3.1",
+        "gulp-csso": "0.2.8",
+        "tiny-lr": "0.0.5",
+        "opn": "^0.1.1",
+        "connect": "^2.14.4"
+    },
+    "dependencies": {
+        "fs": "0.0.1-security",
+        "rename": "^1.0.4",
+        "webshot": "^0.18.0"
+    }
+}
